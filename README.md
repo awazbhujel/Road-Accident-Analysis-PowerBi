@@ -120,6 +120,7 @@ Considering the data insights, we propose the following recommendations to impro
 
 ## Report Access
 [View Dashboard PDF](https://github.com/awazbhujel/Road-Accident-Analysis-PowerBi/blob/main/Road%20Accident.pdf)
+
 The completed Road Accident Dashboard report is available https: https://github.com/awazbhujel/Road-Accident-Analysis-PowerBi/blob/main/Road%20Accident.pbix
 
 ## References
