@@ -119,9 +119,10 @@ Considering the data insights, we propose the following recommendations to impro
 - Improve road surface maintenance: Regularly inspect and maintain road surfaces, especially during adverse weather, to minimize the risk of accidents due to slippery conditions.
 
 ## Report Access
+
 [View Dashboard PDF](https://github.com/awazbhujel/Road-Accident-Analysis-PowerBi/blob/main/Road%20Accident.pdf)
 
-The completed Road Accident Dashboard report is available https: https://github.com/awazbhujel/Road-Accident-Analysis-PowerBi/blob/main/Road%20Accident.pbix
+The completed Road Accident Dashboard report is available [here](https://github.com/awazbhujel/Road-Accident-Analysis-PowerBi/blob/main/Road%20Accident.pbix)
 
 ## References
 The road accident data analysis project was based on a tutorial from YouTube. The tutorial titled "Road Accident Data Analysis in Power BI" by Data Tutorials(https://www.youtube.com/@datatutorials1) served as the foundational guide for this project.
