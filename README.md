@@ -5,7 +5,7 @@
 </p>
 
 ## Dataset
-The road accident dataset used in this analysis is available for download from [Google Drive](link_to_google_drive_dataset).
+The road accident dataset used in this analysis is available for download from https://github.com/awazbhujel/Road-Accident-Analysis-PowerBi/blob/main/Road%20Accident%20Data.xlsx
 
 ## Road Accident Dataset Columns Contains:
 
