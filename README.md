@@ -122,6 +122,10 @@ Considering the data insights, we propose the following recommendations to impro
 
 [View Dashboard PDF](https://github.com/awazbhujel/Road-Accident-Analysis-PowerBi/blob/main/Road%20Accident.pdf)
 
+<p align="center">
+  <img src="https://github.com/awazbhujel/Road-Accident-Analysis-PowerBi/blob/main/RoadAccidentDashboard.png"  title="hover text", width="800" height="800">
+</p>
+
 The completed Road Accident Dashboard report is available [here](https://github.com/awazbhujel/Road-Accident-Analysis-PowerBi/blob/main/Road%20Accident.pbix)
 
 ## References
